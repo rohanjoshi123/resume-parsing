@@ -1,1 +1,1 @@
-# resume-parsing
+Parsing a resume and extracting useful information like Skills, experience, position, company's name has always been a challenging job. This code kind of simplifies that using NLP, and few Machine Learning model
